@@ -22,6 +22,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [openair - _Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data._](https://github.com/davidcarslaw/openair) [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
     * [quantr - _Provides tools for visually evaluating low-cost air quality sensors_](https://github.com/wacl-york/quant-air-pollution-measurement-errors)
     * [sensortoolkit - _A collection of R scripts for managing an air quality sensor network_](https://github.com/gmiskell/sensortoolkit)
+    * [AirBeam R - a Shiny app for analyzing AirBeam, OpenAQ, and Purple Air data exported from the AirCasting front end](https://aq-sensors.shinyapps.io/AirBeamR/)
 
 * C++
     * [Nova Fitness SDS dust sensors arduino library](https://github.com/lewapek/sds-dust-sensors-arduino-library)
